@@ -11,11 +11,11 @@ Project 7 Front End Nanodegree Udacity
 * [Important Note about the back end server](Important-Note-about-the-back-end-server)
 
 
-##Project Overview
+## Project Overview
 
 A book tracking app built with React / Bookshelf app that allows you to select and categorise books you have read, are currently reading, or want to read.
 
-##App Functionality
+## App Functionality
 
 In this application, the main page displays a list of "shelves" (i.e. categories), each of which contains a number of books. The three shelves are:
 
@@ -37,7 +37,7 @@ When you navigate back to the main page from the search page, you should instant
 
 We are given a starter template If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.
 
-##How To Run This App
+## How To Run This App
 
 Dependencies
 
@@ -49,7 +49,7 @@ npm
 App can be seen at: localhost:3000.
 
 
-##Backend Server
+## Backend Server
 
 To simplify the development process, we are provided with a backend server to develop against. The provided file BooksAPI.js contains the methods you will need to perform necessary operations on the backend:
 
@@ -57,7 +57,7 @@ To simplify the development process, we are provided with a backend server to de
 * update
 * search
 
-##Important Note about the back end server
+## Important Note about the back end server
 
 The backend API uses a fixed set of cached search results and is limited to a particular set of search terms, which can be found in SEARCH_TERMS.md. That list of terms are the only terms that will work with the backend, so don't be surprised if your searches for Basket Weaving or Bubble Wrap don't come back with any results.
 
